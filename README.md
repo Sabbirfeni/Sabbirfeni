@@ -1,6 +1,7 @@
 # Amdadul Hoq Shabbir
 
 **`Full stack developer/Entrepreneur`**
+</br>
 I am an independent full-stack developer and entrepreneur dedicated to shaping my vision of the digital landscape incrementally. Each coding project is meticulously crafted, commencing with comprehensive planning and design, and culminating in the application of code to address real-world challenges.
 <!-- <h3 align="center">Building tech wonders for the next gen!</h3> -->
 
