@@ -1,7 +1,7 @@
 # Amdadul Hoq Shabbir
 
 **`Full stack developer/Entrepreneur`**
-
+I am an independent full-stack developer and entrepreneur dedicated to shaping my vision of the digital landscape incrementally. Each coding project is meticulously crafted, commencing with comprehensive planning and design, and culminating in the application of code to address real-world challenges.
 <!-- <h3 align="center">Building tech wonders for the next gen!</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirfeni&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirfeni" /> </p>
