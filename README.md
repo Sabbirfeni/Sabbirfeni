@@ -1,4 +1,8 @@
-<h3 align="center">Building tech wonders for the next gen!</h3>
+# Amdadul Hoq Shabbir
+
+**`Full stack developer/Entrepreneur`**
+
+<!-- <h3 align="center">Building tech wonders for the next gen!</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirfeni&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirfeni" /> </p>
 
