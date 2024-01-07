@@ -36,7 +36,7 @@ I am an independent full-stack developer and entrepreneur dedicated to shaping m
 
 #
 <div>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirfeni&" alt="sabbirfeni" /></p>
+   <p style='background: #000'><img align="center" style='background: #000' src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirfeni&" alt="sabbirfeni" /></p>
 </div>
 <div>
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirfeni&show_icons=true&locale=en" alt="sabbirfeni" /></p>
