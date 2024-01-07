@@ -2,6 +2,7 @@
 
 **`Full stack developer/Entrepreneur`**
 </br>
+</br>
 I am an independent full-stack developer and entrepreneur dedicated to shaping my vision of the digital landscape incrementally. Each coding project is meticulously crafted, commencing with comprehensive planning and design, and culminating in the application of code to address real-world challenges.
 
 <!-- Social badges section -->
