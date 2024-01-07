@@ -33,6 +33,7 @@ I am an independent full-stack developer and entrepreneur dedicated to shaping m
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
 #
 <div>
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirfeni&show_icons=true&locale=en&layout=compact" alt="sabbirfeni" /></p>
