@@ -35,7 +35,7 @@ I am an independent full-stack developer and entrepreneur dedicated to shaping m
 
 
 
-| <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sabbirfeni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirfeni&" /></a> |
+| <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sabbirfeni&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirfeni&theme=gruvbox" /></a> |
 | ------------- | ------------- |
 
  | <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbirfeni&layout=compact&theme=buefy&hide_border=true" /></a> ||
