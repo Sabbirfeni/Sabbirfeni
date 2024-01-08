@@ -33,8 +33,6 @@ I am an independent full-stack developer and entrepreneur dedicated to shaping m
 <br />
 <br />
 <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sabbirfeni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shabbir's github stats" /></a> | <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirfeni&" /></a>
-
-#
 <!--
 <div>
    <p style='background: #000'><img align="center" style='background: #000' src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirfeni&" alt="sabbirfeni" /></p>
