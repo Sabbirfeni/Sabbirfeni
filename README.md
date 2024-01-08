@@ -34,7 +34,7 @@ I am an independent full-stack developer and entrepreneur dedicated to shaping m
 <br />
 
 
-### 🧰 Languages and Tools
+### Activities
 
 | <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sabbirfeni&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirfeni&theme=github_dark" /></a> |
 | ------------- | ------------- |
