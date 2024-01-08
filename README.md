@@ -41,19 +41,6 @@ I am an independent full-stack developer and entrepreneur dedicated to shaping m
  | <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbirfeni&layout=compact&theme=github_dark&hide_border=true" /></a> ||
  | ------------- | ------------- |
 
-<!-- <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sabbirfeni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shabbir's github stats" /></a> | <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirfeni&" /></a> -->
-<!--
-<div>
-   <p style='background: #000'><img align="center" style='background: #000' src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirfeni&" alt="sabbirfeni" /></p>
-</div>
-<div>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirfeni&show_icons=true&locale=en" alt="sabbirfeni" /></p>
-</div> -->
-<br />
-<br />
-<div>
-   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirfeni&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="sabbirfeni" /></p>
-</div>
 
 <!--
 **Sabbirfeni/Sabbirfeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
