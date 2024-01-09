@@ -28,7 +28,7 @@ I am an independent full-stack developer and entrepreneur dedicated to shaping m
 #
 
 <details>
- <summary><h3>👨‍💻 Shabbir's Coding Journey</h3></summary>
+ <summary><h3>Shabbir's Coding Journey</h3></summary>
    
 In 2021, fueled by the inspiration drawn from my elder brother, I embarked on a journey into the realm of coding. As a non-Computer Science student, acquainting myself with the fundamental syntax of HTML and CSS proved to be a formidable challenge initially. Undeterred, I maintained a steadfast belief in my abilities and dedicated myself to understanding the intricacies of programming concepts.
 
