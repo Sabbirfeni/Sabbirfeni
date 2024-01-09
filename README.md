@@ -28,15 +28,13 @@ I am an independent full-stack developer and entrepreneur dedicated to shaping m
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Shabbir's Coding Journey</h3></summary>
    
-In 2021, fueled by the inspiration drawn from my elder brother, a distinguished software engineer from the American International University Bangladesh (AIUB), I embarked on a journey into the realm of coding. As a non-Computer Science student, acquainting myself with the fundamental syntax of HTML and CSS proved to be a formidable challenge initially. Undeterred, I maintained a steadfast belief in my abilities and dedicated myself to understanding the intricacies of programming concepts.
-
-In the nascent stages of my coding odyssey, I grappled with the intricacies of crafting simple HTML and CSS, gradually progressing to construct static templates. This newfound proficiency prompted me to venture into the realm of freelancing, leading me to establish an account on Fiverr. My first order materialized after six months, marking the inception of a transformative chapter in my coding narrative.
+In 2021, fueled by the inspiration drawn from my elder brother, I embarked on a journey into the realm of coding. As a non-Computer Science student, acquainting myself with the fundamental syntax of HTML and CSS proved to be a formidable challenge initially. Undeterred, I maintained a steadfast belief in my abilities and dedicated myself to understanding the intricacies of programming concepts.
 
 Embracing a resolute work ethic, I continued to refine my skills on Fiverr, steadily ascending in proficiency. However, after a year of freelancing, a realization dawned upon me - the imperative need to elevate my programming acumen in preparation for potential full-time engagements with reputable companies. Consequently, I decided to temporarily step back from freelancing on Fiverr, redirecting my focus towards honing my skills.
 
-My pursuit of excellence led me to delve into advanced technologies such as React.js, Redux, Tailwind CSS, Framer Motion, Formik, Jest, Node.js, and MongoDB. This strategic pivot not only fortified my programming repertoire but also positioned me as a valuable asset in the competitive landscape of software development.
+My pursuit of excellence led me to delve into advanced technologies such as JavaScript, React.js, Redux, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS and more. This strategic pivot not only fortified my programming repertoire but also positioned me as a valuable asset in the competitive landscape of software development.
 
 The culmination of these efforts has resulted in my current standing as a proficient developer, actively contributing to mid-level companies. My professional trajectory underscores a commitment to continuous improvement and an unwavering dedication to staying abreast of industry trends. As I navigate the dynamic landscape of coding, I remain poised to embrace new challenges and contribute meaningfully to the ever-evolving field of software development.
 
