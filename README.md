@@ -8,7 +8,10 @@ I am an independent full-stack developer and entrepreneur dedicated to shaping m
       <a href="https://github.com/Sabbirfeni?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sabbirfeni?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
       <a href="https://github.com/Sabbirfeni?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sabbirfeni?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sabbirfeni?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      </a>
+       <a href="[https://github.com/Sabbirfeni?tab=follower](https://visitcount.itsvg.in)">
+         <img alt="followers" title="Follow me on Github" src="[https://custom-icon-badges.demolab.com/github/followers/Sabbirfeni?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=whit](https://visitcount.itsvg.in/api?id=Sabbirfeni&label=Profile%20Views&color=6&icon=0&pretty=true)"/></a>
 
    </p>
 
