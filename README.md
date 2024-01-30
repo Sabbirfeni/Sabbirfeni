@@ -11,7 +11,9 @@ I am an independent full-stack developer and entrepreneur dedicated to shaping m
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sabbirfeni?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
    </p>
-      [![ProfileViews](https://visitcount.itsvg.in/api?id=Sabbirfeni&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Sabbirfeni&label=Profile%20Views&color=12&icon=0&pretty=true" />
+</a>
 ---
 
 ### Languages and Tools
